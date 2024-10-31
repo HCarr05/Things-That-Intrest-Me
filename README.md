@@ -6,3 +6,4 @@ Things I enjoy doing is playing video games with my friends and haning out with 
   [My first Intrest is here](Intrest1.md) 
 2. **Intrest Two**  
    [My second big Intrest is here](Intrest2.md)
+3. [My thrid big Intrest is here]()
